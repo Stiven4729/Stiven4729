@@ -10,6 +10,6 @@ About me
 - 🔭 I am currently working on personal projects
 - 🌱 I am currently increasing my ability to solve more complex problems with logic.
 - 📫 How to reach me:
-      -  <div>instagram: Stivengallegol</div> 
-      -  gmail: gallegostiven4729@gmail.com
-      -  discord: https://discord.gg/P9cwS8cj 
+      <div>-  instagram: Stivengallegol</div>
+      <div>-  gmail: gallegostiven4729@gmail.com</div>
+      <div>-  discord: https://discord.gg/P9cwS8cj</div>
